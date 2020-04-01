@@ -1,3 +1,6 @@
 data*
 /Gemfile.lock
 /.ruby-version
+/result.json
+/ruby_prof_report/
+/stackprof_reports/
