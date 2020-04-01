@@ -176,4 +176,3 @@ end
 #     assert_equal expected_result, JSON.parse(File.read('result.json'))
 #   end
 # end
-work
